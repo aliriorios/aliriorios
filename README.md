@@ -1,4 +1,4 @@
-### 👋 Hiii, I'm Alírio Rios! I'm on my way to become a web developer!
+## 👋 Hiii, I'm Alírio Rios! I'm on my way to become a web developer!
 
 <!-- Status Panel and Languages ------------------------------------------------------------------->
 <div align="center">
