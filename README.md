@@ -1,4 +1,4 @@
-## 👋 Hiii, I'm Alírio Rios! I'm on my way to become a web developer!
+## 👋🏽 Hi, there! I'm Alírio Rios and I'm on my way to become a web developer!
 
 <!-- Status Panel and Languages ------------------------------------------------------------------->
 <div align="center">
@@ -28,7 +28,7 @@
 ##
 
 <!-- Badges --------------------------------------------------------------------------------------->
-### 🤝 Let's get connected
+### 🤝🏽 Let's get connected
   
 <div>
   <a href="https://www.linkedin.com/in/alírio-de-souza-rios-564553219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
