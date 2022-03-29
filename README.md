@@ -14,7 +14,7 @@
   <img align="center" alt="Alirio-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alirio-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" margin-left="20px">
   <img align="center" alt="Alirio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
-  <img align="right" alt="Alirio-pic" height="150" style="border-radius: 50px" src="https://i.ibb.co/mXd5bmP/Captura-de-tela-2022-03-29-13342.png">
+  <img align="right" alt="Alirio-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/mXd5bmP/Captura-de-tela-2022-03-29-13342.png">
   
   <!-- <img align="center" alt="Alirio-JS" height="30" width="40" src=""> -->
 </div>
