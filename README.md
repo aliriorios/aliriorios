@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/aliriorios">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliriorios&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliriorios&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliriorios&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <!-- Language Images -->
@@ -19,3 +19,7 @@
 </div>
   
 ##
+
+<div>
+  <a href="" target="_blank"><img src="" target="_blank"></a>
+</div>
