@@ -19,7 +19,7 @@
   <img align="center" alt="Alirio-PostgreSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Alirio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg">
 <!-- Avatar Image -->
-<img align="right" alt="Alirio-pic" height="180" src="https://i.ibb.co/mXd5bmP/Captura-de-tela-2022-03-29-13342.png">
+<img align="right" alt="Alirio-pic" height="180" src="https://cdn.discordapp.com/attachments/958760766931075114/958785341442097152/avatar.png">
   </div>
 
   
