@@ -1,4 +1,7 @@
-## 👋🏽 Hi, there! I'm Alírio Rios and I'm on my way to become a web developer!
+## 👋🏽 Olá, Mundo!
+<p>
+  Eu sou Alírio Rios e estou trilhando meu caminho para me tornar um desenvolvedor Web!<br>
+</p>
 
 <!-- Status Panel and Languages ------------------------------------------------------------------->
 <div align="center">
@@ -8,7 +11,7 @@
 </div>
 
 <!-- Technologies Images --------------------------------------------------------------------------->
-### 🛠️ Technologies and Tools:
+### 🛠️ Tecnologias e Ferramentas:
 <div>
   <img align="center" alt="Alirio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alirio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,7 +31,7 @@
 ##
 
 <!-- Badges --------------------------------------------------------------------------------------->
-### 🤝🏽 Let's get connected
+### 🤝🏽 Vamos nos conectar!
   
 <div>
   <a href="https://www.linkedin.com/in/alírio-de-souza-rios-564553219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
