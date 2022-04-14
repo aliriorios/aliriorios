@@ -12,7 +12,7 @@
 
 <!-- Technologies Images --------------------------------------------------------------------------->
 <!-- ### 🛠️ Tecnologias e Ferramentas: -->
-<div>
+<div style="display: inline_block"><br>
   <img align="center" alt="Alirio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alirio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alirio-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +21,7 @@
   <img align="center" alt="Alirio-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
   <img align="center" alt="Alirio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg">
 <!-- Avatar Image -->
-<img align="right" alt="Alirio-pic" height="180"  src="https://cdn.discordapp.com/attachments/958760766931075114/958785341442097152/avatar.png">
+<img align="right" alt="Alirio-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/958760766931075114/958785341442097152/avatar.png">
   </div>
 
   
