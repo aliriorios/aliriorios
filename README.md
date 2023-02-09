@@ -1,6 +1,6 @@
 ## 👋🏽 Olá, Mundo!
 <p>
-  Eu sou Alírio Rios e estou trilhando meu caminho para me tornar um desenvolvedor Web!<br>
+  Eu sou Alírio Rios e estou trilhando meu caminho para me tornar um desenvolvedor!<br>
 </p>
 
 <!-- Status Panel and Languages ------------------------------------------------------------------->
