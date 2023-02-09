@@ -1,6 +1,6 @@
 ## 👋🏽 Olá, Mundo!
 <p>
-  Eu sou Alírio Rios e estou trilhando meu caminho para me tornar um desenvolvedor!<br>
+  ☕I turn coffee into code!<br>
 </p>
 
 <!-- Status Panel and Languages ------------------------------------------------------------------->
