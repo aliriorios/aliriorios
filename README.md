@@ -5,15 +5,10 @@
 <!-- Some Description ------------------------------------------------------------------->
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliriorios&label=Profile%20views&color=0e75b6&style=flat" alt="Alirio-profileviews" /> </p>
-  <img height="160em" align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <p>
     - 🔭 Estou a procura de estágio<br>
     - 🌱 Estou aprendendo Spring Boot e JavaScript<br>
     - ☕ Coffee XD<br>
-    - ☕ Coffee XD<br>
-    - ☕ Coffee XD<br>
-    - ☕ Coffee XD<br>
-    
   </p>
   
 </div>
