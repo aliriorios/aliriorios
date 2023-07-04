@@ -1,6 +1,7 @@
-<h3 align="center">👋🏽 Olá, Mundo! Eu sou Alírio Rios</h3>
-<p align="center"></p>
+<!-- Header ------------------------------------------------------------------->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=56A1F9&height=100&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56A1F9&size=25&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Eu+sou+Alírio+Rios!;Sou+estudante+de+desenvolvimento+full-stack;Turn+coffee+to+code+:%29)](https://git.io/typing-svg)
 
 <!-- Some Description ------------------------------------------------------------------->
 <div>
@@ -15,8 +16,8 @@
 
 <!-- Status Panel and Languages ------------------------------------------------------------------->
 <div>
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=aliriorios&show_icons=true&locale=en&theme=github_dark" alt="Alirio-status"/>
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliriorios&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Alirio-top-languages"/>
+  <img width="49%" height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=aliriorios&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="Alirio-status"/>
+  <img width="41%" height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliriorios&show_icons=true&locale=en&layout=compact&theme=github_dark&text_color=56A1F9&hide_border=true" alt="Alirio-top-languages"/>
 </div>
 
 <!-- Technologies Images --------------------------------------------------------------------------->
@@ -43,3 +44,9 @@
 
 <!-- Commit Snake --------------------------------------------------------------------------------->
 <!-- ![Snake animation](https://github.com/aliriorios/aliriorios/blob/output/github-contribution-grid-snake.svg) -->
+
+<!-- Commit Graph --------------------------------------------------------------------------------->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliriorios&bg_color=0d1117&color=56A1F9&line=56A1F9&point=a3ceff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Footer ------------------------------------------------------------------->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=56A1F9&height=100&section=footer"/>
