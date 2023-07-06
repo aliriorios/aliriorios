@@ -16,7 +16,7 @@
 <!-- Status Panel and Languages ------------------------------------------------------------------->
 <div>
   <img width="49%" height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=aliriorios&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="Alirio-status"/>
-  <img width="41%" height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliriorios&show_icons=true&locale=en&layout=compact&theme=github_dark&text_color=56A1F9&hide_border=true" alt="Alirio-top-languages"/>
+  <img width="41%" height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliriorios&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Alirio-top-languages"/>
 </div>
 
 <!-- Technologies Images --------------------------------------------------------------------------->
