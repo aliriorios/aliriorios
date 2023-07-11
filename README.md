@@ -37,10 +37,10 @@
 <!-- Badges --------------------------------------------------------------------------------------->
 <h4>🤝🏽 Vamos nos conectar!</h4>
 <div align="left">
-  <a href="https://www.instagram.com/aliriorios99/?hl=pt-br" target="_blank"><img src="https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente13.png?fit=696%2C696&ssl=1" target="_blank" height="30"></a>&nbsp&nbsp&nbsp
-  <a href="https://www.linkedin.com/in/alírio-de-souza-rios-564553219/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" target="_blank" height="30"></a>&nbsp&nbsp&nbsp
-  <a href="mailto:contato.aliriorios@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Google_Inbox_by_Gmail_logo.svg/2198px-Google_Inbox_by_Gmail_logo.svg.png" target="_blank" height="30"></a>&nbsp&nbsp&nbsp
-  <a href="https://www.twitch.tv/akashi_gms" target="_blank"><img src="https://seeklogo.com/images/T/twitch-new-logo-BAB7E776B9-seeklogo.com.png?v=637970383560000000" target="_blank" height="30"></a>
+  <a href="https://www.instagram.com/aliriorios99/?hl=pt-br" target="_blank"><img src="https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente13.png?fit=696%2C696&ssl=1" height="30"></a>&nbsp&nbsp&nbsp
+  <a href="https://www.linkedin.com/in/alírio-de-souza-rios-564553219/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="30"></a>&nbsp&nbsp&nbsp
+  <a href="mailto:contato.aliriorios@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Google_Inbox_by_Gmail_logo.svg/2198px-Google_Inbox_by_Gmail_logo.svg.png" height="30"></a>&nbsp&nbsp&nbsp
+  <a href="https://www.twitch.tv/akashi_gms" target="_blank"><img src="https://seeklogo.com/images/T/twitch-new-logo-BAB7E776B9-seeklogo.com.png?v=637970383560000000" height="30"></a>
 </div>&nbsp&nbsp&nbsp
 
 <!-- Commit Snake --------------------------------------------------------------------------------->
