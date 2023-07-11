@@ -5,7 +5,7 @@
 
 <!-- Some Description ------------------------------------------------------------------->
 <div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliriorios&label=Profile%20views&color=16ad85&style=flat" alt="Alirio-profileviews" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliriorios&label=Profile%20views&color=0f916e&style=flat" alt="Alirio-profileviews" /> </p>
   <p>
     - 🔭 Cursando Análise e Desenvolvimento de Sistemas e a procura de estágio<br>
     - 🌱 Atualmente estou estudando Spring Framework e JavaScript para front-end<br>
