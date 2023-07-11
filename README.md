@@ -1,5 +1,5 @@
 <!-- Header ------------------------------------------------------------------->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffbb&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffbb&height=80&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffbb&size=25&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Eu+sou+Alírio+Rios!;Sou+estudante+de+desenvolvimento+full-stack;Turn+coffee+to+code+:%29)](https://git.io/typing-svg)
 
@@ -50,4 +50,4 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliriorios&bg_color=0d1117&color=00ffbb&line=00ffbb&point=a0ffe5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Footer ------------------------------------------------------------------->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffbb&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffbb&height=80&section=footer"/>
