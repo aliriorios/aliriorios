@@ -1,11 +1,11 @@
 <!-- Header ------------------------------------------------------------------->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffbb&height=80&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=549FF3&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffbb&size=25&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Eu+sou+Alírio+Rios!;Sou+estudante+de+desenvolvimento+full-stack;Turn+coffee+to+code+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=549FF3&size=25&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Eu+sou+Alírio+Rios!;Sou+estudante+de+desenvolvimento+full-stack;Turn+coffee+to+code+:%29)](https://git.io/typing-svg)
 
 <!-- Some Description ------------------------------------------------------------------->
 <div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliriorios&label=Profile%20views&color=0f916e&style=flat" alt="Alirio-profileviews" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliriorios&label=Profile%20views&color=2d74bf&style=flat" alt="Alirio-profileviews" /> </p>
   <p>
     - 🔭 Cursando Análise e Desenvolvimento de Sistemas e a procura de estágio<br>
     - 🌱 Atualmente estou estudando Spring Framework e JavaScript para front-end<br>
@@ -15,8 +15,8 @@
 
 <!-- Status Panel and Languages ------------------------------------------------------------------->
 <div>
-  <img width="49%" height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=aliriorios&show_icons=true&locale=en&theme=github_dark&hide_border=true&title_color=00ffbb&icon_color=00ffbb" alt="Alirio-status"/>
-  <img width="41%" height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliriorios&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&title_color=00ffbb" alt="Alirio-top-languages"/>
+  <img width="49%" height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=aliriorios&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="Alirio-status"/>
+  <img width="41%" height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliriorios&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Alirio-top-languages"/>
 </div>
 
 <!-- Technologies Images --------------------------------------------------------------------------->
@@ -37,17 +37,17 @@
 <!-- Badges --------------------------------------------------------------------------------------->
 <h4>🤝🏽 Vamos nos conectar!</h4>
 <div align="left">
-  <a href="https://www.instagram.com/aliriorios99/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="28"></a>
-  <a href="https://www.linkedin.com/in/alírio-de-souza-rios-564553219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="28"></a>
-  <a href="https://www.twitch.tv/akashi_gms" target="_blank"><img src="https://img.shields.io/badge/Twitch-7f3bed?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" height="28"></a>
-  <a href="mailto:contato.aliriorios@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="28"></a>
-</div>
+  <a href="https://www.instagram.com/aliriorios99/?hl=pt-br" target="_blank"><img src="https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente13.png?fit=696%2C696&ssl=1" target="_blank" height="30"></a>&nbsp&nbsp
+  <a href="https://www.linkedin.com/in/alírio-de-souza-rios-564553219/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" target="_blank" height="30"></a>&nbsp&nbsp
+  <a href="mailto:contato.aliriorios@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Google_Inbox_by_Gmail_logo.svg/2198px-Google_Inbox_by_Gmail_logo.svg.png" target="_blank" height="30"></a>&nbsp&nbsp
+  <a href="https://www.twitch.tv/akashi_gms" target="_blank"><img src="https://seeklogo.com/images/T/twitch-new-logo-BAB7E776B9-seeklogo.com.png?v=637970383560000000" target="_blank" height="30"></a>
+</div>&nbsp&nbsp
 
 <!-- Commit Snake --------------------------------------------------------------------------------->
 <!-- ![Snake animation](https://github.com/aliriorios/aliriorios/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- Commit Graph --------------------------------------------------------------------------------->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliriorios&bg_color=0d1117&color=00ffbb&line=00ffbb&point=a0ffe5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aliriorios&bg_color=0d1117&color=549FF3&line=549FF3&point=a5d0ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Footer ------------------------------------------------------------------->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffbb&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=549FF3&height=80&section=footer"/>
