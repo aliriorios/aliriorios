@@ -8,7 +8,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliriorios&label=Profile%20views&color=2d74bf&style=flat" alt="Alirio-profileviews" /> </p>
   <p>
     - 🔭 Cursando Análise e Desenvolvimento de Sistemas e a procura de estágio<br>
-    - 🌱 Atualmente estou estudando Spring Framework e JavaScript para front-end<br>
+    - 🌱 Atualmente estou estudando JavaScript<br>
   </p>
   
 </div>
