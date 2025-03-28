@@ -5,12 +5,7 @@
 
 <!-- Some Description ------------------------------------------------------------------->
 <div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliriorios&label=Profile%20views&color=2d74bf&style=flat" alt="Alirio-profileviews" /> </p>
-  <p>
-    - 🔭 Cursando Análise e Desenvolvimento de Sistemas e a procura de estágio<br>
-    - 🌱 Atualmente estou estudando JavaScript<br>
-  </p>
-  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliriorios&label=Profile%20views&color=2d74bf&style=flat" alt="Alirio-profileviews" /> </p>  
 </div>
 
 <!-- Status Panel and Languages ------------------------------------------------------------------->
@@ -22,15 +17,22 @@
 <!-- Technologies Images --------------------------------------------------------------------------->
 <h4>🛠️ Tecnologias e Ferramentas:</h4>
 <div align="left" style="display: inline_block">
+  <!-- Front-end -->
   <img align="center" alt="Alirio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alirio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alirio-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <!-- Back-end -->
   <img align="center" alt="Alirio-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" margin-left="20px">
   <img align="center" alt="Alirio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
-  <!-- <img align="center" alt="Alirio-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg"> -->
+  <img align="center" alt="Alirio-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg">
+
+  <!-- Database -->
   <img align="center" alt="Alirio-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
   <img align="center" alt="Alirio-PostgreSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
-<!--   <img align="center" alt="Alirio-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain.svg"> -->
+
+  <!-- Tools -->
+  <img align="center" alt="Alirio-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain.svg">
   <img align="center" alt="Alirio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg">
   <img align="center" alt="Alirio-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg">
 </div>
@@ -41,7 +43,6 @@
   <a href="https://www.instagram.com/aliriorios99/?hl=pt-br" target="_blank"><img src="https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente13.png?fit=696%2C696&ssl=1" height="30"></a>&nbsp&nbsp&nbsp
   <a href="https://www.linkedin.com/in/alírio-rios-2110a528a/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="30"></a>&nbsp&nbsp&nbsp
   <a href="mailto:contato.aliriorios@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Google_Inbox_by_Gmail_logo.svg/2198px-Google_Inbox_by_Gmail_logo.svg.png" height="30"></a>&nbsp&nbsp&nbsp
-  <a href="https://www.twitch.tv/akashi_gms" target="_blank"><img src="https://seeklogo.com/images/T/twitch-new-logo-BAB7E776B9-seeklogo.com.png?v=637970383560000000" height="30"></a>
 </div>&nbsp&nbsp&nbsp
 
 <!-- Commit Snake --------------------------------------------------------------------------------->
